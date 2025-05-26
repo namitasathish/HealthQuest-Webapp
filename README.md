@@ -1,7 +1,7 @@
 # HealthQuest Webapp
 Disease Prediction Web App
 
-This project is a Health Symptom Checker that predicts the most likely disease based on symptoms and their severity using a Decision Tree Classifier. The system also provides a brief description of the condition and recommends precautionary measures, built with react as frontend
+This project is a Health Symptom Checker that predicts the most likely disease based on symptoms and their severity using a Decision Tree Classifier. The system also provides a brief description of the condition and recommends precautionary measures, built with react as frontend 
 
 
 ## Features
